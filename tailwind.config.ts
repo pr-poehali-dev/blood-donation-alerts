@@ -64,7 +64,9 @@ export default {
 				},
 				'medical-green': 'hsl(var(--medical-green))',
 				'medical-blue': 'hsl(var(--medical-blue))',
-				'blood-red': 'hsl(var(--blood-red))'
+				'blood-red': 'hsl(var(--blood-red))',
+				'plasma-pink': '#ec4899',
+				'notification-orange': '#f97316'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
